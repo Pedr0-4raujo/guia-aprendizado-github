@@ -3,7 +3,7 @@
 
 
 ## Objetivo
-Guiar o leitor na implementação de estruturas de dados dinâmicas em C, com ênfase em ponteiros e alocação de memória.
+Guiar o leitor na implementação de listas encadeadas, pilhas e filas em linguagem C, com ênfase em ponteiros e alocação de memória e foco em exercícios resolvidos.
 
 \## Público-alvo
 
