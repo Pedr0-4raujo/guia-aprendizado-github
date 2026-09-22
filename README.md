@@ -3,8 +3,7 @@
 
 
 ## Objetivo
-Apresentar de forma prática os conceitos de listas encadeadas, pilhas e filas em linguagem C, com foco em exercícios e exemplos de código.
-
+Apresentar de forma prática os conceitos de listas encadeadas, pilhas e filas em linguagem C, com foco em exercícios resolvidos.
 
 \## Público-alvo
 
