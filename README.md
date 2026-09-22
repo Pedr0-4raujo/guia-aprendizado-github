@@ -4,7 +4,7 @@
 
 \## Objetivo
 
-Ensinar estudantes de graduação a implementar listas encadeadas, pilhas e filas em C, dominando alocação dinâmica de memória e as operações básicas de inserção, remoção e percurso.
+Este guia apresenta fundamentos de estruturas de dados em C para estudantes iniciantes em programação.
 
 
 
