@@ -3,8 +3,7 @@
 
 
 ## Objetivo
-Apresentar de forma prática os conceitos de listas encadeadas, pilhas e filas em linguagem C, com foco em exercícios e exemplos de código.
-
+Guiar o leitor na implementação de estruturas de dados dinâmicas em C, com ênfase em ponteiros e alocação de memória.
 
 \## Público-alvo
 
