@@ -2,10 +2,8 @@
 
 
 
-\## Objetivo
-
-Este guia apresenta fundamentos de estruturas de dados em C para estudantes iniciantes em programação.
-
+## Objetivo
+Apresentar de forma prática os conceitos de listas encadeadas, pilhas e filas em linguagem C, com foco em exercícios e exemplos de código.
 
 
 \## Público-alvo
